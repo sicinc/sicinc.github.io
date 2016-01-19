@@ -91,6 +91,8 @@ h1 {
   text-transform: uppercase;
   color: $white;
   font-size: 8.4rem;
+  line-height: 6.2rem;
+  margin-top: 5.8rem;
   @include breakpoint(medium only) {
     font-size: 3rem;
   }
